@@ -3,8 +3,7 @@
 🧠 B.tech student at SRMIST<br/>
 ⚙️ I crack and develop stuffs as my side quest<br/>
 🛡️ Cybersecurity Researcher<br/>
-🎮 Gamer<br/>
-🫂 Here is my Instagram page [Instagram](https://www.instagram.com/anonym0us_sec/)
+
 
 
 ## 🌐 Socials:
