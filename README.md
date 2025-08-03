@@ -1,6 +1,6 @@
 ## Hi, I'm Dev 👋
 
-🧠 B.tech student at SRMIST<br/>
+🧠 Tech polymath<br/>
 ⚙️ I crack and develop stuffs as my side quest<br/>
 🛡️ Cybersecurity Researcher<br/>
 
