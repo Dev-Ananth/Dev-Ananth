@@ -1,1 +1,1 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono+&pause=1000&color=00F723&background=000000&width=435&lines=Hey%2C+I'm+Dev+Ananth;I'm+a+software+Engineer+and+Cybersec+Reseacher)](https://git.io/typing-svg)
