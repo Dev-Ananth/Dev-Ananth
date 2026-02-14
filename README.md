@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono+&pause=1000&color=00F723&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=66&lines=Hey%2C+I'm+Dev+Ananth;SWE+%7C+Agentic+Engineer+%7C+Cybersecurity+Reseacher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono+&pause=300&color=00F70A&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=65&lines=Hey%2C+I'm+Dev+Ananth;SWE+%7C+Agentic+Engineer+%7C+Cybersecurity+Researcher)](https://git.io/typing-svg)
 
 
 
