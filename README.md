@@ -1,6 +1,6 @@
 ## Hi, I'm Dev 👋
 
-🧠 Ai/Ml engineer<br/>
+🧠 SWE<br/>
 ⚙️ I crack and develop stuffs as my side quest<br/>
 🛡️ Cybersecurity Researcher<br/>
 
